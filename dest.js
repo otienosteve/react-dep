@@ -1,0 +1,1 @@
+console.log(Object.keys({"id":2,"first_name":"Roslyn","last_name":"Phillott","email":"rphillott1@stanford.edu","gender":"Female","profile":"https://randomuser.me/api/portraits/women/27.jpg"}))
